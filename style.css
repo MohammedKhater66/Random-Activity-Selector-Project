@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background: linear-gradient(90deg, #f38181, #fce38a);
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    padding: 24px ;
+}
+h1{
+margin-bottom: 24px ;
+}
+#activity{
+    font-size: 24px;
+ color: #154f45;
+
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ font-style: oblique;
+
+}
+
